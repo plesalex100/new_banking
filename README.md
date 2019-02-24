@@ -7,4 +7,4 @@ Photos: https://imgur.com/a/4AdCFWJ
 
 Original resource: https://forum.fivem.net/t/release-new-banking-reskin/220487
 
--(!) Nu schimba numele resursei
+### (!) Nu schimba numele resursei
